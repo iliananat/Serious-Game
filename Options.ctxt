@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Options
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Options\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Options\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=option\ x\ y
+comment2.target=Options(java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=Options()
+comment4.params=opt
+comment4.target=Options(int)
+comment5.params=
+comment5.target=void\ checkForClick()
+numComments=6
